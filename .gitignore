@@ -35,3 +35,8 @@ build/
 .vscode/
 ######MACBOOK###
 *DS_Store*
+/logs/
+logs
+logs/
+!**/logs/**
+.mvnold
