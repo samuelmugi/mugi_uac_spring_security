@@ -38,5 +38,6 @@ build/
 /logs/
 logs
 logs/
+*.log
 !**/logs/**
 .mvnold
